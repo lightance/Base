@@ -39,7 +39,7 @@ See more examples in the tests.
 
 ## Unit Tests
 
-Start `tests/tests.html`.
+Start `tests/tests.htm`.
 
 
 ## Questions
