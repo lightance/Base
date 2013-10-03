@@ -6,8 +6,8 @@ The base javascript class with some useful features.
 ## Features
 
 * Options
-  * `setOptions`
-  * `setDefaultOptions`
+    * `setOptions`
+    * `setDefaultOptions`
 
 
 ## Dependencies
