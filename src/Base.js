@@ -1,5 +1,8 @@
 /**
  * The base class with some useful features.
+ *
+ * @author Lightance.com
+ * @license MIT License
  */
 var Base = createClass({
 
